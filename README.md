@@ -1,6 +1,11 @@
-### Hi there 👋
-I'm a front end engineer currently working on Screen Patron
-![alt text](./screen_patron.gif)
+### Hi there 👋 I'm Rhyza
+
+I'm a front end engineer based out of Brooklyn. In the past I've worked at Red Hat and Puppet.
+
+I'm currently working on a passion project [Screen Patron](https://github.com/rhyza/screen-patron), a web app where you can find, share, and support local DIY film screenings.
+
+
+![Screen Patron landing page](./screen_patron.gif)
 
 <!--
 **rhyza/rhyza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
