@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a front end engineer currently working on Screen Patron
+![alt text](./screen_patron.gif)
 
 <!--
 **rhyza/rhyza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
